@@ -2,7 +2,7 @@
   "name": "wherhouse",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://e-com-admin.netlify.app",
+  "homepage": "https://baskar-e-com-admin.netlify.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
